@@ -2,8 +2,8 @@
 ## Objective:
 This report aims to analyze the sales performance of the business between 2015 and 2018 based on the dataset using Excel. The analysis covers trends across various dimensions, including time, customer segment, geography, product, and shipping mode, to identify key drivers, areas of strength, and potential opportunities for improvement.
 ## Data:
-The analysis is based on a dataset containing 9801 sales records across 18 columns, including order details, customer information, product details, geographical information, and sales figures.
-Dataset [Link](https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales)
+- The analysis is based on a dataset containing 9801 sales records across 18 columns, including order details, customer information, product details, geographical information, and sales figures.
+- Dataset [Link](https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales)
 ## Data Preparation:
 - Checked for duplicates: No duplicates found.
 - Formatted sales column to two decimal places.
@@ -12,6 +12,7 @@ Dataset [Link](https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sale
 ### 1. Overall Sales Trend and Growth:
 - Total sales over the four years amounted to $2,261,536.8.
 - Sales experienced a dip in 2016 (-4.26% Year-over-Year growth) before rebounding strongly in 2017 (30.64% YOY growth) and continuing to grow in 2018 (20.30% YOY growth).
+
 
 ### 2. Monthly Sales Performance and Seasonality:
 - Sales are heavily concentrated in the final quarter of the year (September, November, December), contributing 42% of total sales. November is the peak sales month (15%).
