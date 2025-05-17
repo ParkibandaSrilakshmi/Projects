@@ -1,12 +1,18 @@
 # Sales Performance Analysis Report (2015-2018)
 ## Objective:
-This report aims to analyze the sales performance of the business between 2015 and 2018 based on the dataset. The analysis covers trends across various dimensions, including time, customer segment, geography, product, and shipping mode, to identify key drivers, areas of strength, and potential opportunities for improvement.
+This report aims to analyze the sales performance of the business between 2015 and 2018 based on the dataset using Excel. The analysis covers trends across various dimensions, including time, customer segment, geography, product, and shipping mode, to identify key drivers, areas of strength, and potential opportunities for improvement.
 ## Data:
 The analysis is based on a dataset containing 9801 sales records across 18 columns, including order details, customer information, product details, geographical information, and sales figures.
-## Key Findings:
+Dataset [Link](https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales)
+## Data Preparation:
+- Checked for duplicates: No duplicates found.
+- Formatted sales column to two decimal places.
+- Created order_month and order_day columns from order_date.
+## Analysis:
 ### 1. Overall Sales Trend and Growth:
 - Total sales over the four years amounted to $2,261,536.8.
 - Sales experienced a dip in 2016 (-4.26% Year-over-Year growth) before rebounding strongly in 2017 (30.64% YOY growth) and continuing to grow in 2018 (20.30% YOY growth).
+
 ### 2. Monthly Sales Performance and Seasonality:
 - Sales are heavily concentrated in the final quarter of the year (September, November, December), contributing 42% of total sales. November is the peak sales month (15%).
 - February is the slowest sales month (3%), indicating a strong end-of-year seasonality.
@@ -30,12 +36,25 @@ The analysis is based on a dataset containing 9801 sales records across 18 colum
 - Top Products: The Canon imageCLASS 2200 Advanced Copier significantly leads in individual product sales.
 ### 7. Regional Sales by Category:
 - The distribution of sales by category is relatively consistent across different regions, with a slight over-representation of Technology sales in the East region.
-## Insights:
-Strong End-of-Year Performance: The consistent peak in sales during the final quarter presents an opportunity to optimize inventory, marketing campaigns, and staffing to maximize revenue during this crucial period.
-Consumer Segment Dominance: The significant contribution of the Consumer segment highlights its importance. Strategies focused on customer retention, loyalty programs, and targeted marketing within this segment could be highly effective.
-Regional Disparities: The strong performance of the West and East regions suggests a potential need to investigate the factors contributing to the lower sales in the Central and South regions. Targeted strategies or resource allocation adjustments might be necessary.
-Technology as a Key Driver: The Technology category's leading sales share indicates its importance to the business. Focusing on product development, marketing, and sales strategies within this category is crucial.
-Sub-Category Optimization: The significant disparity in sales between top and bottom-performing sub-categories suggests an opportunity to review the product portfolio. Underperforming sub-categories might warrant further investigation into their profitability and potential for discontinuation or revitalization.
-Shipping Preference: The overwhelming preference for Standard Class shipping suggests that customers are price-sensitive regarding shipping costs. Optimizing shipping costs and potentially offering strategic promotions around faster shipping options could be explored.
-Product Focus: The dominance of a single product in the top sellers suggests a potential reliance on that specific item. Diversifying top-selling products and exploring strategies to boost sales of other high-potential products could reduce risk.
-This report provides a comprehensive overview of the sales performance trends. The identified findings and insights can inform strategic decisions related to marketing, sales, product development, and resource allocation to drive future growth and improve overall performance.
+## Areas Performing Well:
+- Strong overall sales growth in 2017 and 2018.
+- Dominance of the Consumer segment in sales.
+- High sales volume in the West and East regions, particularly in California and New York.
+- Technology category leading in sales.
+- Strong performance of Chairs and Phones sub-categories.
+- Significant contribution from Standard Class shipping.
+- Peak sales during the final quarter, especially in November.
+- Consistent sales performance in March.
+## Areas for Improvement:
+- Sales dip experienced in 2016.
+- Underperformance of the South region.
+- Minimal contribution from sub-categories like Fasteners, Art, Envelopes, and Labels.
+- Slow sales during the early months of the year, especially February.
+## Recommendations:
+- Investigate the cause of the 2016 sales dip and apply learnings to future strategies.
+- Develop targeted strategies to boost sales in the South region.
+- Evaluate the profitability and potential of low-performing sub-categories; consider streamlining or targeted promotions.
+- Capitalize on the strong end-of-year sales by optimizing inventory and marketing efforts.
+- Explore strategies to increase sales during the slower months, potentially through promotions or new product introductions.
+- Maintain focus on the Consumer segment and the West and East regions.
+- Leverage the popularity of the Technology category and top-selling sub-categories like Chairs and Phones.
