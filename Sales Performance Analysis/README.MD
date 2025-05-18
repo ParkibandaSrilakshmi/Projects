@@ -12,7 +12,7 @@ This report aims to analyze the sales performance of the business between 2015 a
 ### 1. Overall Sales Trend and Growth:
 - Total sales over the four years amounted to $2,261,536.8.
 - Sales experienced a dip in 2016 (-4.26% Year-over-Year growth) before rebounding strongly in 2017 (30.64% YOY growth) and continuing to grow in 2018 (20.30% YOY growth).
-<img width="452" alt="Image" src="https://github.com/user-attachments/assets/b12431f9-3c5d-4520-a076-cfe9f43d778e" />
+<img width="410" alt="Image" src="https://github.com/user-attachments/assets/b12431f9-3c5d-4520-a076-cfe9f43d778e" />
 
 ### 2. Monthly Sales Performance and Seasonality:
 - Sales are heavily concentrated in the final quarter of the year (September, November, December), contributing 42% of total sales. November is the peak sales month (15%).
@@ -25,7 +25,7 @@ This report aims to analyze the sales performance of the business between 2015 a
 - Standard Class is the dominant shipping method, accounting for 59% of total sales, indicating a customer preference for cost-effectiveness.
 - Second Class represents a significant 20% of sales.
 - First Class and Same Day shipping modes constitute smaller portions of the total sales.
-<img width="365" alt="Image" src="https://github.com/user-attachments/assets/0eda2ddd-1a23-4433-9bcd-b1bd8b93f9e9" />
+<img width="375" alt="Image" src="https://github.com/user-attachments/assets/0eda2ddd-1a23-4433-9bcd-b1bd8b93f9e9" />
 
 ### 4. Sales by Customer Segment:
 - The Consumer segment is the largest contributor to sales, accounting for 51% of the total revenue, making it the most significant customer group.
