@@ -25,6 +25,8 @@ This report aims to analyze the sales performance of the business between 2015 a
 - Standard Class is the dominant shipping method, accounting for 59% of total sales, indicating a customer preference for cost-effectiveness.
 - Second Class represents a significant 20% of sales.
 - First Class and Same Day shipping modes constitute smaller portions of the total sales.
+<img width="379" alt="Image" src="https://github.com/user-attachments/assets/0eda2ddd-1a23-4433-9bcd-b1bd8b93f9e9" />
+
 ### 4. Sales by Customer Segment:
 - The Consumer segment is the largest contributor to sales, accounting for 51% of the total revenue.
 - The Corporate segment contributes a substantial 30% of sales.
