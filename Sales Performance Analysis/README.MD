@@ -12,7 +12,7 @@ This report aims to analyze the sales performance of the business between 2015 a
 ### 1. Overall Sales Trend and Growth:
 - Total sales over the four years amounted to $2,261,536.8.
 - Sales experienced a dip in 2016 (-4.26% Year-over-Year growth) before rebounding strongly in 2017 (30.64% YOY growth) and continuing to grow in 2018 (20.30% YOY growth).
-
+<img width="452" alt="Image" src="https://github.com/user-attachments/assets/b12431f9-3c5d-4520-a076-cfe9f43d778e" />
 
 ### 2. Monthly Sales Performance and Seasonality:
 - Sales are heavily concentrated in the final quarter of the year (September, November, December), contributing 42% of total sales. November is the peak sales month (15%).
