@@ -28,7 +28,7 @@ This report aims to analyze the sales performance of the business between 2015 a
 <img width="379" alt="Image" src="https://github.com/user-attachments/assets/0eda2ddd-1a23-4433-9bcd-b1bd8b93f9e9" />
 
 ### 4. Sales by Customer Segment:
-- The Consumer segment is the largest contributor to sales, accounting for 51% of the total revenue.
+- The Consumer segment is the largest contributor to sales, accounting for 51% of the total revenue, making it the most significant customer group.
 - The Corporate segment contributes a substantial 30% of sales.
 - The Home Office segment represents 19% of total sales.
 <img width="349" alt="Image" src="https://github.com/user-attachments/assets/19b320ba-3e2d-42fd-b5eb-0ef15c8daa40" />
@@ -38,14 +38,25 @@ This report aims to analyze the sales performance of the business between 2015 a
 <img width="379" alt="Image" src="https://github.com/user-attachments/assets/b252024f-c58c-47b5-a30e-ec2a2540449e" />
 
 - Top States: California and New York significantly outperform other states in sales. Texas and Washington also demonstrate strong sales figures.
+<img width="365" alt="Image" src="https://github.com/user-attachments/assets/9dd8923d-b451-4e64-b45c-476a79f1461c" />
+
 - Top Regions: The West and East regions are the primary sales drivers, with the Central region showing moderate performance and the South region lagging in overall sales contribution.
+<img width="366" alt="Image" src="https://github.com/user-attachments/assets/70abab24-3167-49c7-b8ff-77cf65e1f39d" />
 
 ### 6. Sales by Product:
-- Category: Technology is the top-selling category (37%), followed closely by Furniture (32%) and Office Supplies (31%).
-- Sub-Category: Chairs and Phones are the top-performing sub-categories (14% each). Several sub-categories contribute minimally to overall sales (e.g., Fasteners, Art, Envelopes, Labels).
-- Top Products: The Canon imageCLASS 2200 Advanced Copier significantly leads in individual product sales.
+- Category: Technology accounts for the largest share of sales (37%), closely followed by Furniture (32%) and Office Supplies (31%). Sales are fairly evenly distributed across the three categories, with Technology having a slight edge.
+<img width="315" alt="Image" src="https://github.com/user-attachments/assets/3c886160-ea99-4cde-abbd-e47e9519111a" />
+
+- Sub-Category: "Chairs" and "Phones" are the top-performing sub-categories, each contributing 14% to total sales. "Storage" and "Tables" also represent significant portions (10% and 9% respectively). Several sub-categories like "Fasteners," "Art," "Envelopes," and "Labels" contribute very minimally to overall sales.
+<img width="360" alt="Image" src="https://github.com/user-attachments/assets/9d824ac8-0f77-42d0-a47d-a697ca2f2e95" />
+
+- Top Products: The Canon imageCLASS 2200 Advanced Copier significantly outperforms other products in sales, while the remaining products have relatively similar, lower sales values.
+<img width="458" alt="Image" src="https://github.com/user-attachments/assets/03195836-e0ff-46de-a942-cdff16f15660" />
+
 ### 7. Regional Sales by Category:
 - The distribution of sales by category is relatively consistent across different regions, with a slight over-representation of Technology sales in the East region.
+<img width="374" alt="Image" src="https://github.com/user-attachments/assets/913dd61d-f867-4852-8ff2-eaff0c1bb571" />
+
 ## Areas Performing Well:
 - Strong overall sales growth in 2017 and 2018.
 - Dominance of the Consumer segment in sales.
