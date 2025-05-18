@@ -20,6 +20,7 @@ This report aims to analyze the sales performance of the business between 2015 a
 - August showed notable growth, particularly in 2016 and 2018.
 - March demonstrated consistent sales performance across the analyzed period.
 <img width="422" alt="Image" src="https://github.com/user-attachments/assets/acd3d239-a358-490e-9163-b7602ed575b9" />
+
 ### 3. Sales Distribution by Ship Mode:
 - Standard Class is the dominant shipping method, accounting for 59% of total sales, indicating a customer preference for cost-effectiveness.
 - Second Class represents a significant 20% of sales.
