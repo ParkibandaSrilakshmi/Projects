@@ -19,13 +19,13 @@ This report aims to analyze the sales performance of the business between 2015 a
 - February is the slowest sales month (3%), indicating a strong end-of-year seasonality.
 - August showed notable growth, particularly in 2016 and 2018.
 - March demonstrated consistent sales performance across the analyzed period.
-<img width="422" alt="Image" src="https://github.com/user-attachments/assets/acd3d239-a358-490e-9163-b7602ed575b9" />
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/acd3d239-a358-490e-9163-b7602ed575b9" />
 
 ### 3. Sales Distribution by Ship Mode:
 - Standard Class is the dominant shipping method, accounting for 59% of total sales, indicating a customer preference for cost-effectiveness.
 - Second Class represents a significant 20% of sales.
 - First Class and Same Day shipping modes constitute smaller portions of the total sales.
-<img width="379" alt="Image" src="https://github.com/user-attachments/assets/0eda2ddd-1a23-4433-9bcd-b1bd8b93f9e9" />
+<img width="365" alt="Image" src="https://github.com/user-attachments/assets/0eda2ddd-1a23-4433-9bcd-b1bd8b93f9e9" />
 
 ### 4. Sales by Customer Segment:
 - The Consumer segment is the largest contributor to sales, accounting for 51% of the total revenue, making it the most significant customer group.
@@ -55,7 +55,7 @@ This report aims to analyze the sales performance of the business between 2015 a
 
 ### 7. Regional Sales by Category:
 - The distribution of sales by category is relatively consistent across different regions, with a slight over-representation of Technology sales in the East region.
-<img width="374" alt="Image" src="https://github.com/user-attachments/assets/913dd61d-f867-4852-8ff2-eaff0c1bb571" />
+<img width="395" alt="Image" src="https://github.com/user-attachments/assets/913dd61d-f867-4852-8ff2-eaff0c1bb571" />
 
 ## Areas Performing Well:
 - Strong overall sales growth in 2017 and 2018.
