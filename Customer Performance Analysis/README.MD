@@ -45,4 +45,4 @@ Power BI (DAX, Created Measures, Columns)
 - Enhance product descriptions, images, and sizing information to reduce returns due to unmet expectations.
 - Develop targeted marketing campaigns and product offerings that appeal to the preferences and needs of older customers.
 ## Dashboard:
-<img width="317" alt="Image" src="https://github.com/user-attachments/assets/98991daf-efe2-4f3f-b878-dddaa38866fc" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/98991daf-efe2-4f3f-b878-dddaa38866fc" />
