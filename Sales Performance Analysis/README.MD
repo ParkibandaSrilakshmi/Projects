@@ -31,10 +31,15 @@ This report aims to analyze the sales performance of the business between 2015 a
 - The Consumer segment is the largest contributor to sales, accounting for 51% of the total revenue.
 - The Corporate segment contributes a substantial 30% of sales.
 - The Home Office segment represents 19% of total sales.
+<img width="349" alt="Image" src="https://github.com/user-attachments/assets/19b320ba-3e2d-42fd-b5eb-0ef15c8daa40" />
+
 ### 5. Sales by Geography:
 - Top Cities: New York City and Los Angeles are the leading cities in terms of sales. Seattle, San Francisco, and Philadelphia also show significant sales volume.
+<img width="379" alt="Image" src="https://github.com/user-attachments/assets/b252024f-c58c-47b5-a30e-ec2a2540449e" />
+
 - Top States: California and New York significantly outperform other states in sales. Texas and Washington also demonstrate strong sales figures.
 - Top Regions: The West and East regions are the primary sales drivers, with the Central region showing moderate performance and the South region lagging in overall sales contribution.
+
 ### 6. Sales by Product:
 - Category: Technology is the top-selling category (37%), followed closely by Furniture (32%) and Office Supplies (31%).
 - Sub-Category: Chairs and Phones are the top-performing sub-categories (14% each). Several sub-categories contribute minimally to overall sales (e.g., Fasteners, Art, Envelopes, Labels).
